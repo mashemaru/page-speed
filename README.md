@@ -1,1 +1,1 @@
-page-speed
+Wordpress PageSpeed Optimize
